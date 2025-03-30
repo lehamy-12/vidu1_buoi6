@@ -1,0 +1,17 @@
+
+.block:active{
+    background-color:#DD5746; /*mau khi nhan giu*/
+}
+.block{
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    background-color: #6482AD;
+   color: aliceblue;
+    font-size: x-large;
+    margin: 10px;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
